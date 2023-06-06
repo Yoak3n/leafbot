@@ -50,6 +50,10 @@ func main() {
 	leafbot.InitBots(leafbot.DefaultConfig)
 	// 运行驱动
 	driver.Run()
+	err := runChild()
+	if err != nil {
+		log.Error(err)
+	}
 }
 
 func runChild() error {

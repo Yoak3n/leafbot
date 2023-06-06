@@ -49,7 +49,7 @@ type (
 		Role     string `json:"role"`
 		Sex      string `json:"sex"`
 		Title    string `json:"title"`
-		UserId   int    `json:"user_id"`
+		UserId   int64  `json:"user_id"`
 	}
 
 	// Event

@@ -3,7 +3,7 @@ module github.com/huoxue1/leafbot
 go 1.18
 
 require (
-	github.com/Mrs4s/go-cqhttp v1.0.0-rc5
+	github.com/Mrs4s/go-cqhttp v1.0.1
 	github.com/gorilla/websocket v1.4.2
 	github.com/guonaihong/gout v0.2.6
 	github.com/json-iterator/go v1.1.10
@@ -17,7 +17,7 @@ require (
 
 require (
 	github.com/Microsoft/go-winio v0.6.0 // indirect
-	github.com/Mrs4s/MiraiGo v0.0.0-20230319092203-62d60f132203 // indirect
+	github.com/Mrs4s/MiraiGo v0.0.0-20230401072048-f8d9841755b5 // indirect
 	github.com/RomiChan/protobuf v0.1.1-0.20230204044148-2ed269a2e54d // indirect
 	github.com/RomiChan/syncx v0.0.0-20221202055724-5f842c53020e // indirect
 	github.com/RomiChan/websocket v1.4.3-0.20220123145318-307a86b127bc // indirect
@@ -26,7 +26,7 @@ require (
 	github.com/fumiama/go-base16384 v1.6.4 // indirect
 	github.com/fumiama/go-hide-param v0.1.4 // indirect
 	github.com/fumiama/imgsz v0.0.2 // indirect
-	github.com/gin-gonic/gin v1.7.1 // indirect
+	github.com/gin-gonic/gin v1.9.1 // indirect
 	github.com/go-playground/locales v0.13.0 // indirect
 	github.com/go-playground/universal-translator v0.17.0 // indirect
 	github.com/go-playground/validator/v10 v10.5.0 // indirect
